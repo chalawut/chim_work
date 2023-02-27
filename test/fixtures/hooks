@@ -5,3 +5,4 @@ pre_extract = 'echo _pre_extract_'
 pre_execute = 'echo _pre_execute_'
 post_execute = 'exit 1'
 path = '.'
+//xx Hello Wolrd xx
